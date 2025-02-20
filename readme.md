@@ -1,4 +1,4 @@
-# JavaScript Conditions
+# JavaScript Array Methods 01
 
 ## assignment
 
